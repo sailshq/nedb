@@ -1,3 +1,8 @@
+# @sailshq/nedb
+
+>A fork of nedb 1.8.0 with upgraded dependencies from the Sails core team.
+
+
 <img src="http://i.imgur.com/9O1xHFb.png" style="width: 25%; height: 25%; float: left;">
 
 ## The JavaScript Database
@@ -24,7 +29,7 @@ Bitcoin address: 1dDZLnWpBbodPiN8sizzYrgaz5iahFyb1
 Module name on npm and bower is `nedb`.
 
 ```
-npm install nedb --save    # Put latest version in your package.json
+npm install @sailshq/nedb --save    # Put latest version in your package.json
 npm test                   # You'll need the dev dependencies to launch tests
 bower install nedb         # For the browser versions, which will be in browser-version/out
 ```
