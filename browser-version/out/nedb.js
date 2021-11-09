@@ -1850,7 +1850,7 @@ Executor.prototype.processBuffer = function () {
 module.exports = Executor;
 
 },{"__browserify_process":4,"async":13}],9:[function(require,module,exports){
-var BinarySearchTree = require('binary-search-tree').AVLTree
+var BinarySearchTree = require('@sailshq/binary-search-tree').AVLTree
   , model = require('./model')
   , _ = require('underscore')
   , util = require('util')
