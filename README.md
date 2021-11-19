@@ -1,6 +1,6 @@
 # @sailshq/nedb
 
->A fork of nedb 1.8.0 with upgraded dependencies from the Sails core team.
+>A fork of nedb 1.8.0 with upgraded dependencies maintained by the Sails core team. This fork is intended for use in a development enviornement only, and vulnerabilities that affect a development environment will be patched.
 
 
 <img src="http://i.imgur.com/9O1xHFb.png" style="width: 25%; height: 25%; float: left;">
