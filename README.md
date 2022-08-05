@@ -26,7 +26,7 @@ Bitcoin address: 1dDZLnWpBbodPiN8sizzYrgaz5iahFyb1
 
 
 ## Installation, tests
-Module name on npm and bower is `nedb`.
+Module name on npm and bower is `@sailshq/nedb`.
 
 ```
 npm install @sailshq/nedb --save    # Put latest version in your package.json
