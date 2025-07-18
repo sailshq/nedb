@@ -84,7 +84,7 @@ describe('Model', function () {
       c = model.deserialize(b);
       b.indexOf('\n').should.equal(-1);
       b.should.equal('{"test":{"$$date":' + d.getTime() + '}}');
-      util.isDate(c.test).should.equal(true);
+      util.types.isDate(c.test).should.equal(true);
       c.test.getTime().should.equal(d.getTime());
     });
 
